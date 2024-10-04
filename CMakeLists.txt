@@ -1,3 +1,3 @@
-project(cpprcs)
+project(rps)
 
-add_executable(cpprcs main.cpp)
+add_executable(rps main.cpp)
